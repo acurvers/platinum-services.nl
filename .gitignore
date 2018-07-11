@@ -1,0 +1,35 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.project
+#/.idea
+*.iml
+*.log
+atlassian-ide-plugin.xml
+
+target
+out
+
+# Eclipse specifics
+.classpath
+.project
+.settings
+.factorypath
+/.apt_generated/
+
+# generated in script
+runSnapshot-pom.xml
+
+/.DS_Store
+**/.DS_Store
+
+node_modules/
+bower_components/
+
+# tests
+**/e2e/screenshots/
+
+# Atom specifics
+.tags
+.tags_swap
+
+/.idea/
+/*.iml

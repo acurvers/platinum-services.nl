@@ -135,8 +135,10 @@ p {
     color: #fff;
     text-decoration: none;
     border-bottom: 1px solid gray;
-    font-size: 14px;
+    font-size: 18px;
+    line-height: 18px;
     white-space: nowrap;
+    font-weight: 600;
 }
 
 .nav a:link {

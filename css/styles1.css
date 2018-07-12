@@ -62,7 +62,8 @@ body {
     padding: 0;
     color: #fff;
     background: #fff;
-    font-family: Roboto, Arial, sans-serif;
+    /*font-family: Roboto, Arial, sans-serif;*/
+    font-family:  Arial;
     -webkit-font-smoothing: antialiased;
 }
 

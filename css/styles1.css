@@ -155,21 +155,19 @@ p {
 }
 
 .nav a:hover {
-    color: #fff;
-    background-color: green
+    color: #0B7FB8;
 }
 
 .nav a:active {
-    color: #fff;
-    background-color: red;
+    color: #0B7FB8;
 }
 
-.footer-list{
+.footer-list {
     list-style: none;
 }
 
 .active {
-    border-bottom: 5px solid #0B7FB8!important;
+    border-bottom: 5px solid #0B7FB8 !important;
 }
 
 @media (min-width: 700px) {
@@ -212,4 +210,10 @@ p {
     .footer {
         padding: 1em 5%
     }
+}
+
+.footertext {
+    line-height: 32px;
+    font-weight: 400;
+    font-size: 20px;
 }

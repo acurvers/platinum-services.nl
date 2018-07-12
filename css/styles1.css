@@ -60,7 +60,7 @@
 body {
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #fff;
     background: #fff;
     font-family: Roboto, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -114,13 +114,6 @@ p {
 .footer {
     clear: both;
     padding: 1em;
-
-    background-color: #ccc
-}
-
-.footer {
-    clear: both;
-    padding: 1em;
     margin: 0px;
     background-color: #ccc
 }
@@ -169,6 +162,10 @@ p {
 .nav a:active {
     color: #fff;
     background-color: red;
+}
+
+.footer-list{
+    list-style: none;
 }
 
 .active {

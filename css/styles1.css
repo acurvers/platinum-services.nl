@@ -1,3 +1,10 @@
+.background_hero {
+    background: url(../img/logo.svg), #0B7FB8;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, 200px;
+    background-position: -6% 0%;
+}
+
 .header__link--button {
     background: #0B7FB8;
     padding: 10px 20px;

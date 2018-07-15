@@ -5,6 +5,29 @@
     background-position: -6% 0%;
 }
 
+input[type=text] {
+    border: 0px solid rgb(51, 51, 51);
+    border-radius: 10px;
+    width: 420px;
+    height: 52px;
+    line-height: 32px;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 15px;
+    text-align: start;
+    text-indent: 0px;
+}
+
+.wide_back {
+    padding: 0;
+    background: url("../img/logo_wide.png") no-repeat center right;
+    z-index: 500;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+}
+
 .header__link--button {
     background: #0B7FB8;
     padding: 10px 20px;
@@ -15,6 +38,7 @@
     transition: all .2s ease;
     font-size: 14px;
     text-decoration: none;
+    color: white;
 }
 
 .header__links--right {
@@ -63,7 +87,7 @@ body {
     color: #fff;
     background: #fff;
     /*font-family: Roboto, Arial, sans-serif;*/
-    font-family:  Arial;
+    font-family: Arial;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -122,12 +146,16 @@ p {
 .nav {
     margin: 0;
     padding: 0;
-    list-style: none
+    list-style: none;
+    vertical-align: bottom;
 }
 
 .nav li {
-    display: inline;
-    margin: 0
+    /*display: inline;*/
+    display: inline-block;
+    margin: 0;
+    bottom: 0;
+    height: 60px;
 }
 
 .nav a {
@@ -138,6 +166,25 @@ p {
     border-bottom: 1px solid gray;
     font-size: 18px;
     line-height: 18px;
+    white-space: nowrap;
+    font-weight: 600;
+}
+
+/*a {*/
+/*display: block;*/
+/*margin-right: 22px;*/
+/*color: #fff;*/
+/*text-decoration: none;*/
+/*font-size: 18px;*/
+/*line-height: 18px;*/
+/*white-space: nowrap;*/
+/*font-weight: 600;*/
+/*}*/
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
     white-space: nowrap;
     font-weight: 600;
 }
@@ -163,12 +210,33 @@ p {
     color: #0B7FB8;
 }
 
+a:link {
+    color: #fff
+}
+
+a:visited {
+    color: #fff
+}
+
+a:focus {
+    color: #0B7FB8;
+}
+
+a:hover {
+    color: #0B7FB8;
+}
+
+a:active {
+    color: #0B7FB8;
+}
+
 .footer-list {
     list-style: none;
 }
 
 .active {
-    border-bottom: 5px solid #0B7FB8 !important;
+    color: #0B7FB8 !important;
+    /*border-bottom: 5px solid #0B7FB8 !important;*/
 }
 
 @media (min-width: 700px) {
@@ -181,7 +249,8 @@ p {
     }
 
     .nav li {
-        display: inline;
+        /*display: inline;*/
+        display: inline-block;
         margin: 0 1em 0 0
     }
 

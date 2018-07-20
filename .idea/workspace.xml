@@ -30,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1955">
-              <caret line="129" column="18" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+            <state relative-caret-position="333">
+              <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -39,6 +39,24 @@
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ttt.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/ttt.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t22.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/t22.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="86" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
             </state>
           </provider>
         </entry>
@@ -141,6 +159,8 @@
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
         <option value="$PROJECT_DIR$/css/styles1.css" />
+        <option value="$PROJECT_DIR$/img/ttt.xml" />
+        <option value="$PROJECT_DIR$/img/t22.xml" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -410,7 +430,7 @@
       <workItem from="1531827975325" duration="66000" />
       <workItem from="1531841509924" duration="1594000" />
       <workItem from="1531860278757" duration="1846000" />
-      <workItem from="1532085255764" duration="690000" />
+      <workItem from="1532085255764" duration="3545000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1531300499570</created>
@@ -524,11 +544,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532085590586</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="text change">
+      <created>1532085955016</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1532085955016</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55115000" />
+    <option name="totallyTimeSpent" value="57970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,12 +651,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="text change" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/logo_bothcropped.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/logo_wide.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1853">
@@ -944,10 +965,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/ttt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/t22.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="86" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="129" column="18" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+        <state relative-caret-position="333">
+          <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

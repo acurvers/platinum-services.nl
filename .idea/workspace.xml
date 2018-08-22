@@ -2,8 +2,220 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f6b1449-7177-44e5-9263-a110a6864f50" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B0050TQ0OG.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B0050TQ0OG.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B0050TQ0OG.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B0050TQ16I.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B0050TQ16I.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B0050TQ16I.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B011O129NO.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B011O12E8O.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B011O12WGS.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/B011O12WHM.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/IMG_4034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/IMG_4117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/IMG_4366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/IMG_4444_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Aura/Main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004984G54.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004984G54.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004984G54.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004984G54.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004989P8M.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004989P8M.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004989P8M.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B004989P8M.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B007WJ8LIA.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B007WJLLE6.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B011O129N4.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B011O129N4.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B011O129N4.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B011O12D9E.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B011O12D9E.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Delta/B011O12D9E.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/AMAZON_LISTING_PORTRAIT_KOR_NAVA_FILTER_PACK_BLACK_RED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/AMAZON_LISTING_PORTRAIT_KOR_NAVA_FILTER_PACK_GUNMETAL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/AMAZON_LISTING_PORTRAIT_KOR_NAVA_FILTER_PACK_ONYX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/AMAZON_LISTING_PORTRAIT_KOR_NAVA__FILTER_PACK_ARCTIC_ICE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGQK.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGQK.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGQK.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGQK.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGQK.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGRY.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGRY.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGRY.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGRY.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGRY.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGUG.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGUG.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGUG.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGUG.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B00FUANGUG.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11TSU.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11TSU.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11TSU.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11TSU.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11W8M.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11W8M.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11W8M.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/B011O11W8M.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B011O11TSU.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B011O11TSU.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B011O11TSU.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B011O11TSU.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B011O11TSU.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLBK7Q.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLBK7Q.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLBK7Q.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLBK7Q.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLBK7Q.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLHFL5.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLHFL5.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLHFL5.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLHFL5.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava - Hyper Pink and Aqua Splash/B073ZLHFL5.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava Filter Packs/AMAZON_LISTING_PORTRAIT_KOR_NAVA_FILTER_PACK_BLACK_GREEN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava Filter Packs/AMAZON_LISTING_PORTRAIT_KOR_NAVA_FILTER_PACK_BLACK_RED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava Filter Packs/AMAZON_LISTING_PORTRAIT_KOR_NAVA_FILTER_PACK_GUNMETAL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava Filter Packs/AMAZON_LISTING_PORTRAIT_KOR_NAVA_FILTER_PACK_ONYX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR Nava/Nava Filter Packs/AMAZON_LISTING_PORTRAIT_KOR_NAVA__FILTER_PACK_ARCTIC_ICE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/15006 KOR One Sea Spray.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/15006 KOR One Sea Spray.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/15006 KOR One Sea Spray.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/15006 KOR One Sea Spray.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/2912 KOR One Onyx.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/2912 KOR One Onyx.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/2912 KOR One Onyx.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/3247 KOR One Rose Gold.back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/3247 KOR One Rose Gold.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/3247 KOR One Rose Gold.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/3247 KOR One Rose Gold.rght.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/3249 KOR One Chrome.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/3249 KOR One Chrome.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/3249 KOR One Chrome.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7420 KOR One Clear Water.frnt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7420 KOR One Clear Water.left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7420 KOR One Clear Water.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7421 KOR One Rosebloom 8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7422 KOR One Meadow 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7422 KOR One Meadow 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7422 KOR One Meadow 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7422 KOR One Meadow 4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/7422 KOR One Meadow 5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/B07534PF9Q.main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/B07534PF9Q.pt01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/B07534PF9Q.pt02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/B07534PF9Q.pt03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/B07534PF9Q.pt04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/B07534PF9Q.pt05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/KOR ONE Rose Gold Sell Sheet v1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ONE/KOR ONE Sell Sheet 2015.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82001-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82001-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82001-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82001-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82001-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82001-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82001-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82002-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82002-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82002-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82002-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82002-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82002-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82003-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82003-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82003-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82003-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82003-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82003-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82003-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82004-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82004-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82004-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82004-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82004-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82004-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82004-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82005-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82005-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82005-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82005-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82005-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82005-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82005-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82006-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82006-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82006-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82006-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82006-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82006-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/32oz Bottles/82006-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72001-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72001-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72001-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72001-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72001-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72001-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72001-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72002-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72002-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72002-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72002-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72002-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72002-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72003 - 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72003-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72003-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72003-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72003-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72003-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72003-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72004-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72004-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72004-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72004-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72004-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72004-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72004-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72005-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72005-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72005-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72005-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72005-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72005-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72006-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72006-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72006-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72006-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72006-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/72006-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 18 oz/B06XPRCWB6.pt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 18 oz/B06XQ4M9BJ.pt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 18 oz/B06XQ77GT7.pt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 18 oz/B06XQ7ZS8R.pt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 18 oz/B06XQ8HMG2.pt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 18 oz/B06XQ9SDPR.pt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 32 oz/B06XPY5VK9.pt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 32 oz/B06XPYZ2KL.pt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 32 oz/B06XQ83M7T.pt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 32 oz/B06XQ87KRT.pt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 32 oz/B06XQ96BWZ.pt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/Amazon Listings Rok 32 oz/B06XQFFVVT.pt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kor/KOR ROK/KOR Rok Sell Sheet 2017 FINAL (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,15 +242,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="166" column="75" lean-forward="true" selection-start-line="166" selection-start-column="75" selection-end-line="166" selection-end-column="75" />
-              <folding>
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="146">
+              <caret line="208" column="23" lean-forward="true" selection-start-line="208" selection-start-column="23" selection-end-line="208" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -178,8 +383,6 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="366" />
-    <option name="y" value="145" />
     <option name="width" value="2049" />
     <option name="height" value="1154" />
   </component>
@@ -190,8 +393,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,6 +412,12 @@
             </path>
             <path>
               <item name="site_ac_custom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_ac_custom" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="kor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site_ac_custom" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -223,6 +430,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,7 +531,9 @@
       <workItem from="1531860278757" duration="1846000" />
       <workItem from="1532085255764" duration="4173000" />
       <workItem from="1532336830882" duration="647000" />
-      <workItem from="1532633112378" duration="451000" />
+      <workItem from="1532633112378" duration="2861000" />
+      <workItem from="1532678653857" duration="13000" />
+      <workItem from="1534966959108" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1531300499570</created>
@@ -450,11 +661,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532112308424</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="text">
+      <created>1532633570969</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1532633570969</updated>
+    </task>
+    <task id="LOCAL-00020" summary="text">
+      <created>1532636891094</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1532636891094</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59696000" />
+    <option name="totallyTimeSpent" value="62956000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,7 +692,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995005" weight="0.24070632" />
@@ -477,10 +701,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.498002" weight="0.30947956" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4995005" visible="true" weight="0.32992566" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4995005" visible="true" weight="0.32992566" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15084915" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15384616" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="3" weight="0.32967034" />
@@ -569,13 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2550">
           <caret line="150" column="92" lean-forward="true" selection-start-line="150" selection-start-column="92" selection-end-line="150" selection-end-column="92" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,13 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1445">
           <caret line="86" column="78" selection-start-line="86" selection-start-column="78" selection-end-line="86" selection-end-column="78" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,13 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="44" column="67" lean-forward="true" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,13 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,13 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,13 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2431">
           <caret line="143" column="81" selection-start-line="143" selection-start-column="81" selection-end-line="143" selection-end-column="81" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -722,13 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="68" lean-forward="true" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,13 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1921">
           <caret line="113" column="16" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -881,15 +1049,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="166" column="75" lean-forward="true" selection-start-line="166" selection-start-column="75" selection-end-line="166" selection-end-column="75" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="146">
+          <caret line="208" column="23" lean-forward="true" selection-start-line="208" selection-start-column="23" selection-end-line="208" selection-end-column="23" />
         </state>
       </provider>
     </entry>
